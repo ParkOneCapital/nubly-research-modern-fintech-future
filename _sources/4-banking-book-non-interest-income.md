@@ -183,6 +183,8 @@ By acknowledging these risks and implementing effective management strategies, b
 ### Cash App
 A pioneering mobile payment service developed by Block, Inc., has revolutionized financial transactions for underserved demographics. Targeting young individuals, low-income households, minority communities and those with limited banking history or low FICO scores, Cash App offers an intuitive platform for seamless money transfers, investing and spending.
 
+![Cash App](./assets/cash_app.png "Cash App")
+
 __Summary__
 
 Cash App's Non-Interest Income Streams
@@ -283,7 +285,7 @@ With over 15 million accounts and $1 billion in annual revenue, Chime's non-inte
 ### Visa
 Visa Inc. is a multinational financial technology company facilitating electronic payments worldwide, connecting consumers, businesses, financial institutions, and governments through its secure payment network. Visa transformed the payments industry by enabling fast, secure transactions between consumers, merchants and financial institutions across the globe.
 
-![Visa](./assets/visa.png "Visa")
+![Visa](./assets/visa_2.png "Visa")
 
 #### Visa's Non-Interest Income Business Model
 
@@ -322,7 +324,7 @@ U.S. Credit Card Market Share Breakdown (2021)
 ### Apple
 Apple’s ecosystem integrates Apple Pay and Apple Card, creating non-interest income through transaction fees, interest on reserves, and targeted partnerships, positioning Apple as a key player in mobile-first banking.
 
-![Apple Pay](./assets/apple_pay.png)
+![Apple Pay](./assets/apple_pay_2.png)
 
 ### Fiserv
 Summary of Fiserv and Non-Interest Income Aspects
@@ -373,6 +375,7 @@ Fiserv's non-interest income streams drive growth, scalability, and competitiven
 [https://www.businessdasher.com/cash-app-statistics-and-facts/](https://www.businessdasher.com/cash-app-statistics-and-facts/)
 [https://www.oberlo.com/statistics/how-many-people-use-cash-app](https://www.oberlo.com/statistics/how-many-people-use-cash-app)
 [https://aika.substack.com/p/cashapp-is-king](https://aika.substack.com/p/cashapp-is-king)
+[https://www.mollyzee.com/work/cash-app-recurring](https://www.mollyzee.com/work/cash-app-recurring)
 
 ##### Chime:
 
@@ -388,6 +391,7 @@ Fiserv's non-interest income streams drive growth, scalability, and competitiven
 [https://iide.co/case-studies/business-model-of-visa/](https://iide.co/case-studies/business-model-of-visa/)
 [https://www.moneycrashers.com/credit-card-market-share/](https://www.moneycrashers.com/credit-card-market-share/)
 [https://thestrategystory.com/2022/11/25/how-does-visa-work-make-money-business-model/](https://thestrategystory.com/2022/11/25/how-does-visa-work-make-money-business-model/)
+[https://medium.com/@sahintalha1/the-magic-behind-apple-pay-018117d973e1](https://medium.com/@sahintalha1/the-magic-behind-apple-pay-018117d973e1)
 
 ##### Apple:
 
@@ -395,6 +399,7 @@ Fiserv's non-interest income streams drive growth, scalability, and competitiven
 [https://payhawk.com/en-us/blog/breakdown-of-apple-card-strategy-and-10-predictions-for-its-future](https://payhawk.com/en-us/blog/breakdown-of-apple-card-strategy-and-10-predictions-for-its-future)
 [https://www.consumerfinance.gov/about-us/newsroom/cfpb-orders-apple-and-goldman-sachs-to-pay-over-89-million-for-apple-card-failures/](https://www.consumerfinance.gov/about-us/newsroom/cfpb-orders-apple-and-goldman-sachs-to-pay-over-89-million-for-apple-card-failures/)
 [https://www.cardknox.com/apple-pay/](https://www.cardknox.com/apple-pay/)
+[https://payments1connectingthedots.substack.com/p/the-apple-pay-transaction-flow](https://payments1connectingthedots.substack.com/p/the-apple-pay-transaction-flow)
 
 ##### Fiserv:
 

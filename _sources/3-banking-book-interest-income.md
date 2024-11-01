@@ -107,7 +107,7 @@ __Collective Responsibilities__
 By acknowledging these key considerations, stakeholders can work together to harness fintech's potential, mitigate risks and create a resilient, innovative financial ecosystem.
 
 
-### Applying Modern Lending Concepts to Community Development Financial Institutions (CDFIs): Enhancing Interest Income and Economic Impact
+### Modern Lending Strategies for CDFIs: Boosting Interest Income
 
 Community Development Financial Institutions (CDFIs) can leverage modern lending concepts to amplify their economic impact and interest income:
 
