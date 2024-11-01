@@ -1,4 +1,4 @@
-# The Modern Banking Book:
+# The Modern Banking Book: Interest Income
 
 As fintech reshapes financial services, the traditional banking model is evolving to incorporate both Banking-as-a-Service (BaaS) and fintech-enabled offerings. Here, we explore how modern banking operations—impact the  banking book, non-interest income, core systems, and risk management. Our goal is to create a view around the impact of innovation, addressing legacy / risk challenges, and meeting new market demands.
 
