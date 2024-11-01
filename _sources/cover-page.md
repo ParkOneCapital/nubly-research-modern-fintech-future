@@ -1,4 +1,4 @@
-# The Current State of Banking-as-a-Service
+# Modern Fintech Future
 
 ## Nubly Research
 
