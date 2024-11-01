@@ -380,3 +380,44 @@ Recommendations
   - Analyze market trends
 
 Fiserv's non-interest income streams drive growth, scalability, and competitiveness, positioning the company for success in the financial services technology market.
+
+Sources:
+Pay By Bank:
+https://www.aeropay.com/blog/pay-by-bank
+https://dashdevs.com/blog/pay-by-bank/
+
+Embedded Finance:
+https://www.pwc.com/gx/en/industries/financial-services/publications/managing-embedded-finance-risks.html
+https://simon-torrance.medium.com/embedded-finance-a-game-changing-opportunity-for-incumbents-7a1d94f61796
+
+Cash App:
+https://www.howtheygrow.co/p/how-cash-app-grows
+https://www.stilt.com/blog/2020/08/squares-cash-app-is-more-popular-among-low-fico-user/
+https://businessmodelanalyst.com/cash-app-business-model/
+https://www.businessdasher.com/cash-app-statistics-and-facts/
+https://www.oberlo.com/statistics/how-many-people-use-cash-app
+https://aika.substack.com/p/cashapp-is-king
+
+Chime:
+https://businessmodelanalyst.com/chime-business-model/
+https://startuptalky.com/chime-success-story/
+https://research.contrary.com/company/chime
+https://sacra.com/research/chime-ex-employee-neobanking-future/
+
+Visa:
+https://www.investopedia.com/how-visa-makes-money-4799098
+https://businessmodelanalyst.com/visa-business-model/
+https://iide.co/case-studies/business-model-of-visa/
+https://www.moneycrashers.com/credit-card-market-share/
+
+Apple:
+https://www.thevalueengineers.nl/insights/the-business-models-of-apple-pay-and-apple-card
+https://payhawk.com/en-us/blog/breakdown-of-apple-card-strategy-and-10-predictions-for-its-future
+https://www.consumerfinance.gov/about-us/newsroom/cfpb-orders-apple-and-goldman-sachs-to-pay-over-89-million-for-apple-card-failures/
+
+Fiserv:
+https://m2pfintech.com/blog/future-of-core-banking-systems/
+https://www.kansascityfed.org/research/payments-system-research-briefings/core-banking-systems-and-options-for-modernization/
+https://www.kansascityfed.org/research/payments-system-research-briefings/market-structure-of-core-banking-services-providers/
+https://www.pymnts.com/earnings/2024/fiserv-earnings-highlight-embedded-finance-and-pay-by-bank-pacts/
+https://pacificnorthwestedge.substack.com/p/fiserv-fi

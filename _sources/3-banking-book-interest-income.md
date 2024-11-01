@@ -32,10 +32,10 @@ Community Development Financial Institutions (CDFIs) can leverage modern lending
 
 ##### Hypothetical Example: Opportunity Fund
 
-  Opportunity Fund, a CDFI, uses fintech-powered lending to provide microloans to low-income entrepreneurs. By leveraging alternative credit data and automated underwriting, Opportunity Fund:
-    Increased loan origination volume by 30%, generating additional interest income
-    Reduced default rates by 25%, maintaining a healthier banking book
-    Supported 500 additional small businesses, creating 1,500 jobs and stimulating $10 million in local economic activity
+Opportunity Fund, a CDFI, uses fintech-powered lending to provide microloans to low-income entrepreneurs. By leveraging alternative credit data and automated underwriting, Opportunity Fund:
+  Increased loan origination volume by 30%, generating additional interest income
+  Reduced default rates by 25%, maintaining a healthier banking book
+  Supported 500 additional small businesses, creating 1,500 jobs and stimulating $10 million in local economic activity
 
 Tying it Back to the Banking Book:
 
@@ -207,3 +207,18 @@ Implementation Roadmap:
 
 Conclusion:
 A modern banking core is critical to Column's success, enabling the company to drive innovation, efficiency, and interest income growth. By investing in a custom-built banking core, Column can differentiate itself, improve customer experiences, and unlock significant interest income potential.
+
+Sources:
+- https://www.crowdfundinsider.com/2022/04/190120-plaid-co-founder-buys-small-california-bank-renames-it-column-pursues-fintech-update/
+- https://www.openbankingexpo.com/news/plaid-co-founder-launches-column-bank-for-developers/
+- https://www.forbes.com/sites/jeffkauflin/2022/04/21/plaids-billionaire-cofounder-is-back-with-a-new-startupa-fintech-friendly-bank-hes-running-with-his-wife/
+- https://lex.substack.com/p/blueprint-column-a-chartered-bank
+- https://medium.com/the-finserv-minute/whats-the-big-deal-with-column-fff13dbce51
+- https://www.finextra.com/blogposting/22602/column-will-help-open-banking-scale-new-heights
+- https://news.ycombinator.com/item?id=31109170
+- https://www.americanbanker.com/news/de-novo-column-bank-gives-partners-a-sandbox-to-build-banking-tools
+https://column.com/
+- https://column.com/docs/guides/bank-accounts
+- https://column.com/docs/guides
+- https://column.com/docs/usecases/
+- https://column.com/docs/guides/card-programs-with-column

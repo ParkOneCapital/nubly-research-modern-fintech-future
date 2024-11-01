@@ -47,3 +47,4 @@ Modern fintech business models drive significant:
   Non-interest income through transaction fees, payment processing and data analytics
 
 These models provide flexibility, accessibility and convenience, transforming the banking landscape.
+

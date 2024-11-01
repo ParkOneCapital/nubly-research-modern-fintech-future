@@ -128,3 +128,24 @@ Conclusion
 The modern banking core is a re-imagined foundation for a future-ready banking ecosystem, enabling autonomous operations, supporting CDFI transformation, and driving financial inclusion. This empowers institutions to meet today's customer needs while anticipating tomorrow's demands. By modernizing, banks can deepen their social impact, extend their market reach, and solidify their relevance in a digital-first world.
 
 Embracing modern cores, financial institutions can create a future where banking is efficient, secure, accessible, and equitable, benefiting communities, economies, and the industry. Fintech-driven models and modern cores are paving the way for an inclusive, resilient, and scalable future, extending financial access to underserved communities and enhancing global financial health. By prioritizing innovation, financial institutions can play a central role in a sustainable and inclusive financial ecosystem, creating value for all stakeholders.
+
+Sources:
+- https://m2pfintech.com/blog/future-of-core-banking-systems/ 
+- https://advapay.eu/core-banking-what-is-evolution-key-components-types-challenges-opportunities/
+- https://www.techmagic.co/blog/core-banking-modernization
+- https://medium.com/fintech-in-depth/core-banking-systems-primer-a2d26919f3eb
+- https://skaleet.com/en/blog/core-banking-systems-vs-core-banking-platforms-why-move-to-a-next-generation-solu
+- https://fintechnews.sg/97837/digital-transformation/98-of-banks-worldwide-plan-core-system-upgrades-to-accelerate-digital-transformation/ 
+- https://www.fintechfutures.com/2024/08/the-unbundling-of-core-banking/ 
+- https://www.fintechfutures.com/2024/07/is-your-banks-architecture-trapped-in-the-past-its-time-to-recompose-it/
+- https://www.bai.org/banking-strategies/heres-the-key-to-bringing-new-fintech-to-your-core-banking-system/
+- https://www.kansascityfed.org/research/payments-system-research-briefings/market-structure-of-core-banking-services-providers/
+- https://www.kansascityfed.org/research/payments-system-research-briefings/core-banking-systems-and-options-for-modernization/
+- https://www.americanbanker.com/list/5-things-to-keep-in-mind-when-choosing-a-core-banking-system
+- https://www.pehub.com/nordic-capital-bets-big-on-core-banking-systems/
+- https://www.prove.com/blog/core-platforms-for-digital-only-banks-where-are-the-original-gangsters
+- https://www.velmie.com/best-core-banking-platforms
+- https://www.prnewswire.com/news-releases/first-federal-bank-of-kansas-city-joins-with-narmi-to-deliver-world-class-digital-banking-and-account-opening-experience-301308195.html
+- https://www.fintechfutures.com/2018/09/cfcu-community-credit-union-in-tech-revamp-with-fiserv/
+- https://vedcraft.com/architecture/cloud-native-is-the-new-architecture-mantra-for-core-banking-solutions/
+- https://inoxoft.com/blog/10-requirements-for-building-digital-banking-architecture/
