@@ -82,7 +82,8 @@ Complex partnerships might also limit a bank's control over pricing and product 
 Embedded finance often involves extending credit products through non-bank platforms, where traditional credit assessment practices may be relaxed or less robust. This can increase the bank's exposure to credit risk, especially when customers are encouraged to take on financing outside of their means.
 
 Serving more vulnerable customer segments without appropriate risk mitigation measures may lead to higher delinquency rates, impacting the bank’s net interest income if defaults increase or if the bank must write down non-performing assets.
-Distributed Risk in Financial Ecosystems:
+
+#### Distributed Risk in Financial Ecosystems:
 
 Distributed risk across a web of partners creates challenges in tracking and managing exposures. For example, if a partner faces liquidity issues or fails to manage its own risk effectively, this can reverberate through the network, potentially affecting the bank’s income from interest-bearing products.
 
