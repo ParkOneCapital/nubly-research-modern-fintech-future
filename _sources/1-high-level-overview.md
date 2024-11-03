@@ -36,7 +36,7 @@ BaaS enables non-financial platforms to offer financial services through secure 
 
 #### Hybrid Banks
 Hybrid banks blend fintech innovation with traditional banking, adopting physical-digital models.
-- __Revenue Models__: Interest income, transaction fees, premium ser__vices, partnerships.
+- __Revenue Models__: Interest income, transaction fees, premium services, partnerships.
 - __Key Advantage__: Balanced approach combining digital innovation with traditional stability.
 - __Example__: Cross River Bank, Thread Bank, Live Oak Bank, Emigrant Bank.
 
@@ -57,9 +57,9 @@ The digital banking ecosystem transforms the financial landscape:
 - Digital banking services expand possibilities.
 
 Modern fintech business models drive:
-- Engagement through personalized services
-- Retention through seamless experiences
-- Interest income expansion
+- Engagement through personalized services.
+- Retention through seamless experiences.
+- Interest income expansion.
 - Non-interest income through transaction fees, payment processing and data analytics.
     
 ## Operational Necessities for Modern Business Models:

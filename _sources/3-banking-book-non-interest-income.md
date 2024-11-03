@@ -53,7 +53,7 @@ Pay-by-Bank (PBB) offers financial institutions various non-interest income oppo
 
 
 ### Embedded 
-__
+
 By integrating financial services within non-financial platforms, embedded finance allows banks to expand their customer base, especially within underserved segments. This model enhances revenue through partnership fees, transaction volume, and expanded data insights, while creating value-added services for users.
 
 Embedded finance introduces specific risks that could impact a bank's interest income within the banking book, mainly because the nature of embedded finance partnerships and digital service integrations affects both traditional revenue channels and risk management practices. Here are the key risks to interest income in this context:
@@ -99,22 +99,22 @@ Embedded finance integrates financial services into non-financial businesses, le
 __Key Impacts__
 
 ##### Positive Effects
-  - Increases fee income through partnerships and transactions
-  - Diversifies revenue streams, reducing dependence on traditional interest-based income
-  - Enhances customer experience, fostering loyalty and retention
-  - Provides valuable data for targeted product development
+  - Increases fee income through partnerships and transactions.
+  - Diversifies revenue streams, reducing dependence on traditional interest-based income.
+  - Enhances customer experience, fostering loyalty and retention.
+  - Provides valuable data for targeted product development.
 
 ##### Negative Effects:
-  - Technological integration challenges divert resources
-  - Increased fraud and security risks
-  - Regulatory compliance costs and potential fines
-  - Competition from fintechs and non-financial companies
+  - Technological integration challenges divert resources.
+  - Increased fraud and security risks.
+  - Regulatory compliance costs and potential fines.
+  - Competition from fintechs and non-financial companies.
 
 ##### Key Non-Interest Income Streams
-  - Transaction fees (payment processing, transaction charges)
-  - Partnership fees (revenue-sharing agreements)
-  - Data analytics (selling anonymized data insights)
-  - Value-added services (insurance, investment, advisory services)
+  - Transaction fees (payment processing, transaction charges).
+  - Partnership fees (revenue-sharing agreements).
+  - Data analytics (selling anonymized data insights).
+  - Value-added services (insurance, investment, advisory services).
 
 ##### Strategic Recommendations
   - __Develop Digital Capabilities__: Invest in APIs, cloud computing and data analytics.
@@ -126,9 +126,9 @@ __Quantifying the Impact__
 
 #### Hypothetical Example:
 Embedded finance can increase non-interest income by:
-  - 10-15% through fee income growth
-  - 5-10% through diversified revenue streams
-  - 5-7% through improved customer retention
+  - 10-15% through fee income growth.
+  - 5-10% through diversified revenue streams.
+  - 5-7% through improved customer retention.
 
 By understanding the effects, developing strategic partnerships and investing in digital capabilities, banks can thrive in this evolving landscape.
 

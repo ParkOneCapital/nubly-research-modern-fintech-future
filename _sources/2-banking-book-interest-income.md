@@ -8,7 +8,7 @@ As fintech reshapes financial services, the traditional banking model is evolvin
 The banking book, a critical revenue generator for financial institutions, is being reshaped by fintech innovations that enhance both interest and non-interest income. As a result, the traditional banking model is undergoing a significant transformation, driven by the evolving preferences of consumers and the rise of fintech innovation. At the heart of this transformation is the banking book, which is experiencing a significant shift in both interest and non-interest income streams. This section details these transformations.
 
 
-### Interest Income Evolution:
+### Interest Income Evolution
 
 Interest income remains the main staple of banking revenue, derived primarily from loans and deposits. Fintechs and Modern Banks innovate by blending digital platforms with personalized financial products to capture interest revenue through deposit-linked lending.
         
@@ -20,27 +20,27 @@ This shift sets the stage for further innovation, particularly in lending. The r
 #### Modern fintech lending is characterized by:
 
 Enhanced Credit Assessment
-  - AI-driven credit scoring for accurate and swift assessments
-  - Alternative credit data expanding access for underserved populations
+  - AI-driven credit scoring for accurate and swift assessments.
+  - Alternative credit data expanding access for underserved populations.
 
 Efficient Loan Processing
-  - Automated underwriting reducing manual intervention
-  - Real-time data analysis for informed lending decisions
+  - Automated underwriting reducing manual intervention.
+  - Real-time data analysis for informed lending decisions.
 
 Optimized Loan Portfolios
-  - Increased loan origination through automation
-  - Improved credit quality reducing default risk
-  - Diversified loan portfolios across diverse demographics
+  - Increased loan origination through automation.
+  - Improved credit quality reducing default risk.
+  - Diversified loan portfolios across diverse demographics.
 
 Dynamic Pricing
-  - Competitive pricing responsive to market conditions through real-time data analysis
+  - Competitive pricing responsive to market conditions through real-time data analysis.
 
 These innovations transform the lending landscape, enabling financial institutions to streamline operations, enhance credit quality and expand financial inclusion.
 
 
 ### Risks Associated with Interest Income
 
-Navigating Risks in Modern Fintech Lending
+#### Navigating Risks in Modern Fintech Lending
 
 As banking evolves, fintech lending introduces opportunities and challenges. Effective risk management is crucial for sustainable growth.
 
@@ -111,22 +111,22 @@ By acknowledging these key considerations, stakeholders can work together to har
 
 Community Development Financial Institutions (CDFIs) can leverage modern lending concepts to amplify their economic impact and interest income:
 
-  - __Targeted lending__: AI-driven credit scoring can identify creditworthy borrowers in low-income communities, promoting financial inclusion and increasing interest income through expanded loan portfolios
-  - __Streamlined loan processing__: Automated underwriting can reduce costs and increase loan volume, supporting more small businesses and entrepreneurs, and generating additiona__l interest income
-  - __Customized loan products__: Real-time data analysis can inform loan structuring, addressing specific community needs and optimizing interest income through competitive pricing
+  - __Targeted lending__: AI-driven credit scoring can identify creditworthy borrowers in low-income communities, promoting financial inclusion and increasing interest income through expanded loan portfolios.
+  - __Streamlined loan processing__: Automated underwriting can reduce costs and increase loan volume, supporting more small businesses and entrepreneurs, and generating additional interest income.
+  - __Customized loan products__: Real-time data analysis can inform loan structuring, addressing specific community needs and optimizing interest income through competitive pricing.
 
 #### Hypothetical Example: Opportunity Fund
 
-Opportunity Fund, a CDFI, uses fintech-powered lending to provide microloans to low-income entrepreneurs. By leveraging alternative credit data and automated underwriting, Opportunity Fund:
-  - Increased loan origination volume by 30%, generating additional interest income
-  - Reduced default rates by 25%, maintaining a healthier banking book
-  - Supported 500 additional small businesses, creating 1,500 jobs and stimulating $10 million in local economic activity
+Opportunity Fund, a CDFI, uses fintech-powered lending to provide microloans to low-income entrepreneurs. Leveraging alternative credit data and automated underwriting results in:
+  - Increased loan origination volume by 30%, generating additional interest income.
+  - Reduced default rates by 25%, maintaining a healthier banking book.
+  - Supported 500 additional small businesses, creating 1,500 jobs and stimulating $10 million in local economic activity.
 
 Tying it Back to the Banking Book:
 
-  - __Interest income growth__: Modern lending concepts can increase loan origination, improve credit quality, and optimize pricing, leading to higher interest income
-  - __Banking book diversification__: Expanded lending to underserved communities can enhance portfolio diversity, reducing risk and increasing resilience
-  - __Regulatory capital benefits__: Improved credit quality and reduced default rates can lead to lower regulatory capital requirements, freeing up capital for additional lending and interest income generation
+  - __Interest income growth__: Modern lending concepts can increase loan origination, improve credit quality, and optimize pricing, leading to higher interest income.
+  - __Banking book diversification__: Expanded lending to underserved communities can enhance portfolio diversity, reducing risk and increasing resilience.
+  - __Regulatory capital benefits__: Improved credit quality and reduced default rates can lead to lower regulatory capital requirements, freeing up capital for additional lending and interest income generation.
 
 By embracing modern lending technologies, financial institutions can optimize their banking book interest income while driving positive economic impact in underserved communities. This synergy between fintech innovation and social responsibility has the potential to transform the financial landscape, promoting equitable economic growth and prosperity.
 
@@ -134,7 +134,7 @@ By embracing modern lending technologies, financial institutions can optimize th
 ## Column Bank Deep Dive
 
 Column Bank exemplifies fintech-driven lending, operating as a chartered bank with a developer-friendly infrastructure. Column generates interest income from consumer deposits, lines of credit, and term loans, and manages an investment portfolio leveraging real-time data analytics. By using its own banking license, Column combines compliance with innovation, offering tailored banking experiences through a digital-first approach.
-__
+
 Launched in 2022, Column aims to revolutionize banking by providing a developer-friendly infrastructure for fintech innovation.
 
 ![Column Bank](./assets/column.png "Column Bank")
@@ -223,7 +223,7 @@ Column's competitive moat is built around its:
 
 __Challenges and Opportunities:__
 
-__Challenges__:__
+__Challenges__:
 
   - __Scalability__: Maintaining quality and efficiency as Column's platform grows.
   - __Competition__: Incumbent banks and emerging fintech players may replicate Column's model.
