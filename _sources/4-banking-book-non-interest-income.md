@@ -350,7 +350,7 @@ Fiserv is a leading financial services technology company providing payment proc
   - Regulatory pressures
   - Competition
   - Technological advancements
-  - Changine customer demands
+  - Changing customer demands
 
 Fiserv's non-interest income streams drive growth, scalability, and competitiveness, positioning the company for success in the financial services technology market.
 
