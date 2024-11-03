@@ -70,7 +70,8 @@ The need for increased investment in tech upgrades and integration with third-pa
 Embedded finance ecosystems involve extensive data sharing, which can impact a bank's access to and control over customer relationships. If customers primarily engage with financial services through third-party platforms, the bank may lose direct engagement, limiting cross-selling opportunities for traditional lending products that contribute to interest income.
 
 Furthermore, data containment risks, such as data leaks and privacy issues, could erode customer trust and lead to regulatory fines, both of which might cause customer attrition and a reduction in the volume of interest-earning accounts.
-Complex Partnership Risks:
+
+#### Complex Partnership Risks:
 
 Partnering with fintechs and non-banking entities requires banks to navigate complex relationships with varying levels of regulatory and operational sophistication. Without clear governance, banks may be forced to take on higher levels of risk that could eventually impact interest income—especially if the partnership affects the bank’s ability to efficiently manage credit risk and customer acquisition costs.
 
