@@ -65,7 +65,7 @@ While the potential of modern banking cores is significant, there are critical r
   - Operational Agility: Modular and scalable designs allow banks to adapt to market changes swiftly, aligning their offerings with evolving customer demands and regulatory requirements.
   - New Revenue Streams: Opportunities such as embedded finance, DeFi (Decentralized Finance) integration, and AI-driven product recommendations open up new avenues for revenue growth, enabling banks to remain competitive against non-traditional financial platforms.
 
-## 5. Convergance of the Past and the Present
+## 5. Convergence of the Past and the Present
 
   Modern banking cores represent a significant leap forward in the design and function of core banking infrastructure, enabling financial institutions to drive operational efficiency, security, and innovation. By embracing these architectures, banks can navigate regulatory landscapes, mitigate operational risks, and meet the needs of modern customers. Although the journey to modernization entails substantial risks and costs, the benefits—ranging from increased agility and cost savings to enhanced customer value—position banks to remain relevant and resilient in a rapidly transforming financial landscape.
 

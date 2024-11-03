@@ -24,7 +24,7 @@ Enhanced Credit Assessment
   - Alternative credit data expanding access for underserved populations
 
 Efficient Loan Processing
-  -Automated underwriting reducing manual intervention
+  - Automated underwriting reducing manual intervention
   - Real-time data analysis for informed lending decisions
 
 Optimized Loan Portfolios

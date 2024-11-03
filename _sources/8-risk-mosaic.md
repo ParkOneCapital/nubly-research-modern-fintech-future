@@ -3,6 +3,7 @@
 As fintechs and modern banks reshapes the financial landscape, it introduces a web of interconnected risks that traditional frameworks struggle to manage. This dynamic and transformative environment—one of seamless digital transactions, real-time data, and embedded finance—demands an equally agile risk management system. The need for a real-time risk mosaic is paramount, providing stakeholders with a holistic, continuously updated view of potential threats across operational, market, regulatory, and reputational dimensions.
 
 In a risk mosaic, data sources are synthesized into an actionable framework, allowing stakeholders to anticipate, mitigate, and respond to risks as they emerge. This enables fintech banks to safeguard customer trust, navigate regulatory landscapes, and foster resilience in the face of rapid change. A well-constructed risk mosaic thus becomes more than a monitoring tool; it is a blueprint for proactive, sustainable growth in a complex digital ecosystem.
+
 Strategic Considerations for Building the Real-Time Risk Mosaic
 
 Developing a real-time risk mosaic requires coordinated efforts across stakeholders—developers, credit risk managers, regulators, and policymakers—each of whom brings unique insights and responsibilities to this framework. Here are key considerations for each role:
