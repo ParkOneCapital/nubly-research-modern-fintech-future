@@ -29,11 +29,11 @@ Modern banking cores unlock capabilities that address some of the most pressing 
 
 ## 2. Modern Core Components
 
-  - Cloud-Native Architecture: Ensures robust infrastructure capable of handling growing demands securely.
-  - API-First Design: Allows easy integration with third-party fintech services, enabling banks to adopt new technologies and applications swiftly.
-  - Modular Microservices: With modularity, banks can scale specific functions independently, supporting faster innovation and system resilience.
-  - Data Analytics and AI Integration: Provides actionable insights, supports risk management, and personalizes customer interactions.
-  - Security Layers: Incorporates cybersecurity measures aligned with regulatory standards to protect customer data and institutional assets.
+  - __Cloud-Native Architecture__: Ensures robust infrastructure capable of handling growing demands securely.
+  - __API-First Design__: Allows easy integration with third-party fintech services, enabling banks to adopt new technologies and applications swiftly.
+  - __Modular Microservices__: With modularity, banks can scale specific functions independently, supporting faster innovation and system resilience.
+  - __Data Analytics and AI Integration__: Provides actionable insights, supports risk management, and personalizes customer interactions.
+  - __Security Layers__: Incorporates cybersecurity measures aligned with regulatory standards to protect customer data and institutional assets.
 
 
 ## 3. Risks and Challenges of the Modern Core
@@ -60,16 +60,16 @@ While the potential of modern banking cores is significant, there are critical r
 
 ## 4. Implications and Value Creation
 
-  - Financial Inclusion and Customer-Centric Services: By reducing transaction costs and enabling personalized offerings, modern cores foster inclusivity, extending services to underserved demographics and enhancing customer satisfaction.
-  - Innovation Acceleration: APIs and open banking standards allow quick adoption and offering of innovative services, such as integrated digital wallets, and real-time lending decisions, without requiring extensive in-house development.
-  - Operational Agility: Modular and scalable designs allow banks to adapt to market changes swiftly, aligning their offerings with evolving customer demands and regulatory requirements.
-  - New Revenue Streams: Opportunities such as embedded finance, DeFi (Decentralized Finance) integration, and AI-driven product recommendations open up new avenues for revenue growth, enabling banks to remain competitive against non-traditional financial platforms.
+  - __Financial Inclusion and Customer-Centric Services__: By reducing transaction costs and enabling personalized offerings, modern cores foster inclusivity, extending services to underserved demographics and enhancing customer satisfaction.
+  - __Innovation Acceleration__: APIs and open banking standards allow quick adoption and offering of innovative services, such as integrated digital wallets, and real-time lending decisions, without requiring extensive in-house development.
+  - __Operational Agility__: Modular and scalable designs allow banks to adapt to market changes swiftly, aligning their offerings with evolving customer demands and regulatory requirements.
+  - __New Revenue Streams__: Opportunities such as embedded finance, DeFi (Decentralized Finance) integration, and AI-driven product recommendations open up new avenues for revenue growth, enabling banks to remain competitive against non-traditional financial platforms.
 
 ## 5. Convergence of the Past and the Present
 
-  Modern banking cores represent a significant leap forward in the design and function of core banking infrastructure, enabling financial institutions to drive operational efficiency, security, and innovation. By embracing these architectures, banks can navigate regulatory landscapes, mitigate operational risks, and meet the needs of modern customers. Although the journey to modernization entails substantial risks and costs, the benefits—ranging from increased agility and cost savings to enhanced customer value—position banks to remain relevant and resilient in a rapidly transforming financial landscape.
+Modern banking cores represent a significant leap forward in the design and function of core banking infrastructure, enabling financial institutions to drive operational efficiency, security, and innovation. By embracing these architectures, banks can navigate regulatory landscapes, mitigate operational risks, and meet the needs of modern customers. Although the journey to modernization entails substantial risks and costs, the benefits—ranging from increased agility and cost savings to enhanced customer value—position banks to remain relevant and resilient in a rapidly transforming financial landscape.
 
-  For decision-makers, understanding the delicate balance of these cores’ transformative power and associated risks is essential for achieving sustainable growth and maintaining a competitive edge.
+For decision-makers, understanding the delicate balance of these cores’ transformative power and associated risks is essential for achieving sustainable growth and maintaining a competitive edge.
 
 
 ## 6. How Modern Banking Cores Shape the Future of Banking

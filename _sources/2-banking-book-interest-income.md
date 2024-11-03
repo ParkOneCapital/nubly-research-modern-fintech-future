@@ -1,4 +1,4 @@
-# The Modern Banking Book: Interest Income
+__# The Modern Banking Book: Interest Income
 
 As fintech reshapes financial services, the traditional banking model is evolving to incorporate both Banking-as-a-Service (BaaS) and fintech-enabled offerings. Here, we explore how modern banking operations—impact the  banking book, non-interest income, core systems, and risk management. Our goal is to create a view around the impact of innovation, addressing legacy / risk challenges, and meeting new market demands.
 
@@ -111,9 +111,9 @@ By acknowledging these key considerations, stakeholders can work together to har
 
 Community Development Financial Institutions (CDFIs) can leverage modern lending concepts to amplify their economic impact and interest income:
 
-  - Targeted lending: AI-driven credit scoring can identify creditworthy borrowers in low-income communities, promoting financial inclusion and increasing interest income through expanded loan portfolios
-  - Streamlined loan processing: Automated underwriting can reduce costs and increase loan volume, supporting more small businesses and entrepreneurs, and generating additional interest income
-  - Customized loan products: Real-time data analysis can inform loan structuring, addressing specific community needs and optimizing interest income through competitive pricing
+  - __Targeted lending__: AI-driven credit scoring can identify creditworthy borrowers in low-income communities, promoting financial inclusion and increasing interest income through expanded loan portfolios
+  - __Streamlined loan processing__: Automated underwriting can reduce costs and increase loan volume, supporting more small businesses and entrepreneurs, and generating additiona__l interest income
+  - __Customized loan products__: Real-time data analysis can inform loan structuring, addressing specific community needs and optimizing interest income through competitive pricing
 
 #### Hypothetical Example: Opportunity Fund
 
@@ -124,9 +124,9 @@ Opportunity Fund, a CDFI, uses fintech-powered lending to provide microloans to 
 
 Tying it Back to the Banking Book:
 
-  - Interest income growth: Modern lending concepts can increase loan origination, improve credit quality, and optimize pricing, leading to higher interest income
-  - Banking book diversification: Expanded lending to underserved communities can enhance portfolio diversity, reducing risk and increasing resilience
-  - Regulatory capital benefits: Improved credit quality and reduced default rates can lead to lower regulatory capital requirements, freeing up capital for additional lending and interest income generation
+  - __Interest income growth__: Modern lending concepts can increase loan origination, improve credit quality, and optimize pricing, leading to higher interest income
+  - __Banking book diversification__: Expanded lending to underserved communities can enhance portfolio diversity, reducing risk and increasing resilience
+  - __Regulatory capital benefits__: Improved credit quality and reduced default rates can lead to lower regulatory capital requirements, freeing up capital for additional lending and interest income generation
 
 By embracing modern lending technologies, financial institutions can optimize their banking book interest income while driving positive economic impact in underserved communities. This synergy between fintech innovation and social responsibility has the potential to transform the financial landscape, promoting equitable economic growth and prosperity.
 
@@ -134,7 +134,7 @@ By embracing modern lending technologies, financial institutions can optimize th
 ## Column Bank Deep Dive
 
 Column Bank exemplifies fintech-driven lending, operating as a chartered bank with a developer-friendly infrastructure. Column generates interest income from consumer deposits, lines of credit, and term loans, and manages an investment portfolio leveraging real-time data analytics. By using its own banking license, Column combines compliance with innovation, offering tailored banking experiences through a digital-first approach.
-
+__
 Launched in 2022, Column aims to revolutionize banking by providing a developer-friendly infrastructure for fintech innovation.
 
 ![Column Bank](./assets/column.png "Column Bank")
@@ -143,51 +143,51 @@ __Business Model__
 
 Column operates as a chartered bank, leveraging its banking license to provide a range of financial services, including:
 
-  - Banking-as-a-Service (BaaS): Column offers APIs and tools for developers to build custom banking applications.
-  - Digital Banking: Column provides personal and business checking accounts, debit cards, and payment processing services.
-  - Lending: Column offers loan products, including lines of credit and term loans.
+  - __Banking-as-a-Service (BaaS)__: Column offers APIs and tools for developers to build custom banking applications.
+  - __Digital Banking__: Column provides personal and business checking accounts, debit cards, and payment processing services.
+  - __Lending__: Column offers loan products, including lines of credit and term loans.
 
 Interest Income Streams
 Column generates interest income through:
 
-  - Consumer Deposits: Interest earned on personal and business checking accounts.
-  - Loan Products: Interest income from lending activities, such as lines of credit and term loans.
-  - Investment Securities: Interest earned on investment portfolios.
+  - __Consumer Deposits__: Interest earned on personal and business checking accounts.
+  - __Loan Products__: Interest income from lending activities, such as lines of credit and term loans.
+  - __Investment Securities__: Interest earned on investment portfolios.
 
 __Key Features__
 
-  - Developer Platform: Column provides APIs, SDKs, and documentation for developers to build custom banking applications.
-  - Open Banking: Column supports open banking standards, enabling secure data sharing and integration with third-party applications.
-  - Customizable Banking: Column's platform allows users to create tailored banking experiences.
-  - Real-time Payments: Column supports instant payment processing.
+  - __Developer Platform__: Column provides APIs, SDKs, and documentation for developers to build custom banking applications.
+  - __Open Banking__: Column supports open banking standards, enabling secure data sharing and integration with third-party applications.
+  - __Customizable Banking__: Column's platform allows users to create tailored banking experiences.
+  - __Real-time Payments__: Column supports instant payment processing.
 
 __Partnerships and Collaborations__
 
 Column has partnered with various fintech companies, including:
-  - Plaid: Integration with Plaid's data network for secure account linking.
-  - Wise: Enabling seamless and affordable cross-border payments.
-  - Brex: Providing businesses with easy access to corporate credit cards.
-  - Mercury: Offering banking services specifically designed for startups and fintech companies.
+  - __Plaid__: Integration with Plaid's data network for secure account linking.
+  - __Wise__: Enabling seamless and affordable cross-border payments.
+  - __Brex__: Providing businesses with easy access to corporate credit cards.
+  - __Mercury__: Offering banking services specifically designed for startups and fintech companies.
 
 __Competitive Advantage__
 
 Column's competitive advantages include:
 
-  - Developer-friendly infrastructure: Column's APIs and tools enable seamless integration with fintech applications.
-  - Chartered bank status: Column's banking license provides regulatory compliance and stability.
-  - Customizable banking: Column's platform allows users to create tailored banking experiences.
+  - __Developer-friendly infrastructure__: Column's APIs and tools enable seamless integration with fintech applications.
+  - __Chartered bank status__: Column's banking license provides regulatory compliance and stability.
+  - __Customizable banking__: Column's platform allows users to create tailored banking experiences.
 
 __Challenges and Opportunities__
 
-Challenges:
+__Challenges__:
 
-  - Regulatory compliance: Navigating evolving banking regulations.
-  - Competition: Competition from established banks and fintech players.
+  - __Regulatory compliance__: Navigating evolving banking regulations.
+  - __Competition__: Competition from established banks and fintech players.
 
-Opportunities:
+__Opportunities__:
 
-  - Fintech innovation: Column's platform enables innovation in banking and financial services.
-  - Expanding services: Potential expansion into new markets and product offerings.
+  - __Fintech innovation__: Column's platform enables innovation in banking and financial services.
+  - __Expanding services__: Potential expansion into new markets and product offerings.
 
 
 __Conclusion__
@@ -200,39 +200,39 @@ Column, a digital banking platform, has carved out a distinctive niche in the fi
 
 __Unique Positioning:__
 
-  - Banking-as-a-Service (BaaS) 2.0: Column's platform provides a more advanced and customizable BaaS offering, enabling fintech companies to build tailored banking experiences.
-  - Hybrid Bank-Fintech Model: By combining a chartered bank with a developer-friendly infrastructure, Column bridges the gap between traditional banking and fintech innovation.
-  - Embedded Finance: Column's platform facilitates embedded finance, allowing non-banking companies to integrate financial services into their products.
+  - __Banking-as-a-Service (BaaS) 2.0__: Column's platform provides a more advanced and customizable BaaS offering, enabling fintech companies to build tailored banking experiences.
+  - __Hybrid Bank-Fintech Model__: By combining a chartered bank with a developer-friendly infrastructure, Column bridges the gap between traditional banking and fintech innovation.
+  - __Embedded Finance__: Column's platform facilitates embedded finance, allowing non-banking companies to integrate financial services into their products.
 
 __Competitive Advantages:__
 
-  - Chartered Bank Status: Column's banking license provides regulatory compliance, stability, and access to the Federal Reserve System.
-  - Developer-Friendly Infrastructure: Column's APIs, SDKs, and documentation enable seamless integration with fintech applications.
-  - Customizability: Column's platform allows users to create tailored banking experiences, differentiating it from traditional banking and generic BaaS providers.
-  - Open Banking Support: Column's adherence to open banking standards enables secure data sharing and integration with third-party applications.
-  - Innovation Hub: Column's platform attracts fintech innovators, fostering a community that drives development and growth.
+  - __Chartered Bank Status__: Column's banking license provides regulatory compliance, stability, and access to the Federal Reserve System.
+  - __Developer-Friendly Infrastructure__: Column's APIs, SDKs, and documentation enable seamless integration with fintech applications.
+  - __Customizability__: Column's platform allows users to create tailored banking experiences, differentiating it from traditional banking and generic BaaS providers.
+  - __Open Banking Support__: Column's adherence to open banking standards enables secure data sharing and integration with third-party applications.
+  - __Innovation Hub__: Column's platform attracts fintech innovators, fostering a community that drives development and growth.
 
 __Moat:__
 
 Column's competitive moat is built around its:
 
-  - Regulatory Expertise: Deep understanding of banking regulations and compliance.
-  - Technical Expertise: Developer-friendly infrastructure and API-based platform.
-  - Network Effects: Growing ecosystem of fintech partners and developers.
-  - Brand Reputation: Established credibility as a chartered bank and fintech innovator.
+  - __Regulatory Expertise__: Deep understanding of banking regulations and compliance.
+  - __Technical Expertise__: Developer-friendly infrastructure and API-based platform.
+  - __Network Effects__: Growing ecosystem of fintech partners and developers.
+  - __Brand Reputation__: Established credibility as a chartered bank and fintech innovator.
 
 __Challenges and Opportunities:__
 
-Challenges:
+__Challenges__:__
 
-  - Scalability: Maintaining quality and efficiency as Column's platform grows.
-  - Competition: Incumbent banks and emerging fintech players may replicate Column's model.
+  - __Scalability__: Maintaining quality and efficiency as Column's platform grows.
+  - __Competition__: Incumbent banks and emerging fintech players may replicate Column's model.
 
-Opportunities:
+__Opportunities__:
 
-  - Expansion into New Markets: Column can extend its services to underserved markets or international regions.
-  - Partnerships and Collaborations: Strategic partnerships can enhance Column's offerings and reach.
-  - Innovation and R&D: Continuous investment in research and development to stay ahead of the competition.
+  - __Expansion into New Markets__: Column can extend its services to underserved markets or international regions.
+  - __Partnerships and Collaborations__: Strategic partnerships can enhance Column's offerings and reach.
+  - __Innovation and R&D__: Continuous investment in research and development to stay ahead of the competition.
 
 By leveraging its unique positioning and competitive advantages, Column is well-positioned to thrive in the Great Bank Unbundling era, driving fintech innovation and growth.
     
@@ -242,46 +242,46 @@ A modern banking core is the backbone of Column's digital banking platform, enab
 
 __Key Components of a Modern Banking Core:__
 
-  - Cloud-Native Architecture: Scalable, flexible, and secure infrastructure.
-  - API-First Design: Seamless integration with fintech applications and services.
-  - Real-Time Processing: Instant payment processing and updated account information.
-  - Modular Design: Easy maintenance, upgrades, and customization.
-  - Data Analytics: Enhanced insights for informed decision-making.
+  - __Cloud-Native Architecture__: Scalable, flexible, and secure infrastructure.
+  - __API-First Design__: Seamless integration with fintech applications and services.
+  - __Real-Time Processing__: Instant payment processing and updated account information.
+  - __Modular Design__: Easy maintenance, upgrades, and customization.
+  - __Data Analytics__: Enhanced insights for informed decision-making.
 
 __Impact on Interest Income Potential:__
 
 A modern banking core can significantly enhance Column's interest income potential by:
 
-  - Improving Lending Efficiency: Automated loan origination, servicing, and risk management.
-  - Optimizing Deposit Management: Real-time account management and interest rate optimization.
-  - Enhancing Investment Management: Data-driven investment decisions and portfolio optimization.
-  - Reducing Operational Costs: Streamlined processes, minimized manual errors, and lower infrastructure costs.
-  - Increasing Customer Engagement: Personalized banking experiences, real-time updates, and seamless integration with fintech applications.
+  - __Improving Lending Efficiency__: Automated loan origination, servicing, and risk management.
+  - __Optimizing Deposit Management__: Real-time account management and interest rate optimization.
+  - __Enhancing Investment Management__: Data-driven investment decisions and portfolio optimization.
+  - __Reducing Operational Costs__: Streamlined processes, minimized manual errors, and lower infrastructure costs.
+  - __Increasing Customer Engagement__: Personalized banking experiences, real-time updates, and seamless integration with fintech applications.
 
 __Benefits of a Custom-Built Banking Core:__
 
-  - Differentiation: Unique features and capabilities tailored to Column's business model.
-  - Flexibility: Easy integration with emerging technologies and fintech innovations.
-  - Scalability: Efficient handling of growing transaction volumes and customer base.
-  - Security: Enhanced security measures and compliance with evolving regulations.
-  - Cost Savings: Reduced dependence on third-party vendors and legacy systems.
+  - __Differentiation__: Unique features and capabilities tailored to Column's business model.
+  - __Flexibility__: Easy integration with emerging technologies and fintech innovations.
+  - __Scalability__: Efficient handling of growing transaction volumes and customer base.
+  - __Security__: Enhanced security measures and compliance with evolving regulations.
+  - __Cost Savings__: Reduced dependence on third-party vendors and legacy systems.
 
 __Potential Interest Income Growth:__
 
 A modern banking core can potentially increase Column's interest income by:
 
-  - 10-15%: Improved lending efficiency and optimized deposit management.
-  - 5-10%: Enhanced investment management and data-driven decision-making.
-  - 5-10%: Increased customer engagement and retention.
+  - __10-15%__: Improved lending efficiency and optimized deposit management.
+  - __5-10%__: Enhanced investment management and data-driven decision-making.
+  - __5-10%__: Increased customer engagement and retention.
 
 Total potential interest income growth: 20-35%
 
 __Implementation Roadmap:__
 
-  - Strategy and Planning: Define requirements, architecture, and implementation timeline.
-  - Core Banking System Selection: Choose a suitable core banking system or build custom.
-  - Integration and Testing: Integrate with existing systems, test, and deploy.
-  - Migration and Deployment: Migrate data, deploy new core, and ensure seamless transition.
+  - __Strategy and Planning__: Define requirements, architecture, and implementation timeline.
+  - __Core Banking System Selection__: Choose a suitable core banking system or build custom.
+  - __Integration and Testing__: Integrate with existing systems, test, and deploy.
+  - __Migration and Deployment__: Migrate data, deploy new core, and ensure seamless transition.
 
 __Conclusion:__
 

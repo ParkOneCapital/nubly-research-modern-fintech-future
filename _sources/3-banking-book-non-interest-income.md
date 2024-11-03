@@ -18,41 +18,42 @@ Pay-by-Bank (PBB) offers financial institutions various non-interest income oppo
 
 ##### Revenue Streams
 
-  - Transaction Fees: Banks charge fees for PBB transactions, generating revenue.
-  - Value-Added Services: Premium PBB services, such as real-time account verification and payment guarantees.
-  - Data Analytics: Selling transaction data insights to merchants and other stakeholders.
-  - Payment Processing Fees: Reduced fees compared to traditional card payments.
-  - NSF and Overdraft Fee Reduction: Reduced NSF and overdraft fees.
+  - __Transaction Fees__: Banks charge fees for PBB transactions, generating revenue.
+  - __Value-Added Services__: Premium PBB services, such as real-time account verification and payment guarantees.
+  - __Data Analytics__: Selling transaction data insights to merchants and other stakeholders.
+  - __Payment Processing Fees__: Reduced fees compared to traditional card payments.
+  - __NSF and Overdraft Fee Reduction__: Reduced NSF and overdraft fees.
 
 ##### Benefits
 
-  - Diversified Revenue: PBB provides alternative revenue streams.
-  - Increased Efficiency: Streamlined payment processing reduces operational costs.
-  - Improved Customer Experience: Convenient PBB services enhance customer satisfaction.
-  - Competitive Advantage: Offering PBB attracts and retains customers.
+  - __Diversified Revenue__: PBB provides alternative revenue streams.
+  - __Increased Efficiency__: Streamlined payment processing reduces operational costs.
+  - __Improved Customer Experience__: Convenient PBB services enhance customer satisfaction.
+  - __Competitive Advantage__: Offering PBB attracts and retains customers.
 
 ##### Challenges
 
-  - Lost Interchange Revenue: Elimination of interchange fees reduces non-interest income.
-  - Regulatory Compliance: Ensuring compliance with regulations.
-  - Customer Education: Educating customers about PBB benefits.
+  - __Lost Interchange Revenue__: Elimination of interchange fees reduces non-interest income.
+  - __Regulatory Compliance__: Ensuring compliance with regulations.
+  - __Customer Education__: Educating customers about PBB benefits.
 
 ##### Strategic Recommendations
 
-  - Diversify Revenue Streams: Offer value-added services.
-  - Optimize Pricing: Balance revenue and competitiveness.
-  - Invest in Infrastructure: Develop efficient PBB systems.
-  - Monitor Market Trends: Adjust strategies accordingly.
+  - __Diversify Revenue Streams__: Offer value-added services.
+  - __Optimize Pricing__: Balance revenue and competitiveness.
+  - __Invest in Infrastructure__: Develop efficient PBB systems.
+  - __Monitor Market Trends__: Adjust strategies accordingly.
 
 ##### Potential Non-Interest Income Growth
 
-  - Increased Adoption: Growing PBB adoption drives transaction volumes.
-  - Expanded Services: Offering premium services.
-  - Data Monetization: Leveraging transaction data.
-  - Partnerships: Collaborating with fintech companies.
+  - __Increased Adoption__: Growing PBB adoption drives transaction volumes.
+  - __Expanded Services__: Offering premium services.
+  - __Data Monetization__: Leveraging transaction data.
+  - __Partnerships__: Collaborating with fintech companies.
 
 
-### Embedded Finance
+### Embedded 
+__
 By integrating financial services within non-financial platforms, embedded finance allows banks to expand their customer base, especially within underserved segments. This model enhances revenue through partnership fees, transaction volume, and expanded data insights, while creating value-added services for users.
 
 Embedded finance introduces specific risks that could impact a bank's interest income within the banking book, mainly because the nature of embedded finance partnerships and digital service integrations affects both traditional revenue channels and risk management practices. Here are the key risks to interest income in this context:
@@ -116,10 +117,10 @@ __Key Impacts__
   - Value-added services (insurance, investment, advisory services)
 
 ##### Strategic Recommendations
-  - Develop Digital Capabilities: Invest in APIs, cloud computing and data analytics.
-  - Form Strategic Partnerships: Collaborate with fintechs, tech companies and non-financial businesses.
-  - Diversify Revenue Streams: Explore new fee-based services.
-  - Enhance Risk Management: Implement robust risk frameworks.
+  - __Develop Digital Capabilities__: Invest in APIs, cloud computing and data analytics.
+  - __Form Strategic Partnerships__: Collaborate with fintechs, tech companies and non-financial businesses.
+  - __Diversify Revenue Streams__: Explore new fee-based services.
+  - __Enhance Risk Management__: Implement robust risk frameworks.
 
 __Quantifying the Impact__
 
@@ -189,98 +190,100 @@ A pioneering mobile payment service developed by Block, Inc., has revolutionized
 
 __Summary__
 
-Cash App's Non-Interest Income Streams
+#### Cash App's Non-Interest Income Streams
+
 Cash App generates significant revenue through diverse non-interest income streams, expanding financial offerings beyond traditional lending.
 
 __Key Non-Interest Income Streams__
 
-Transaction Fees
-  - Peer-to-peer transfer fees: Charged for instant transfers to bank accounts or debit cards.
-  - Instant deposit fees: Applied for expedited deposits to bank accounts.
-  - Credit card transaction fees: Levied on credit card transactions.
+__Transaction Fees__
+  - __Peer-to-peer transfer fees__: Charged for instant transfers to bank accounts or debit cards.
+  - __Instant deposit fees__: Applied for expedited deposits to bank accounts.
+  - __Credit card transaction fees__: Levied on credit card transactions.
 
-Investment Fees
-  - Brokerage commissions: Charged on stock and ETF trades.
-  - Management fees: Applied to investment portfolios.
+__Investment Fees__
+  - __Brokerage commissions__: Charged on stock and ETF trades.
+  - __Management fees__: Applied to investment portfolios.
 
-Banking Services Fees
-  - ATM withdrawal fees: Charged for out-of-network ATM withdrawals.
-  - Overdraft fees: Applied for overdrafts exceeding $100.
-  - Inactivity fees: Levied on dormant accounts.
+__Banking Services Fees__
+  - __ATM withdrawal fees__: Charged for out-of-network ATM withdrawals.
+  - __Overdraft fees__: Applied for overdrafts exceeding $100.
+  - __Inactivity fees__: Levied on dormant accounts.
 
-Business Services Fees
-  - Payment processing fees: Charged on business transactions.
-  - Invoice payment fees: Applied to invoice payments.
+__Business Services Fees__
+  - __Payment processing fees__: Charged on business transactions.
+  - __Invoice payment fees__: Applied to invoice payments.
 
-Other Fees
-  - Card replacement fees: Charged for replacing lost or damaged Cash Cards.
-  - Expedited shipping fees: Applied for expedited Cash Card shipping.
+__Other Fees__
+  - __Card replacement fees__: Charged for replacing lost or damaged Cash Cards.
+  - __Expedited shipping fees__: Applied for expedited Cash Card shipping.
 
-Revenue Growth Drivers:
-  - User growth: 55 million monthly active users, increasing adoption.
-  - Increased adoption of services and partnerships: Expanding financial offerings.
-  - Fee optimization: Adjusting fees to balance revenue and user satisfaction.
+__Revenue Growth Drivers__
+  - __User growth__: 55 million monthly active users, increasing adoption.
+  - __Increased adoption of services and partnerships__: Expanding financial offerings.
+  - __Fee optimization__: Adjusting fees to balance revenue and user satisfaction.
 
-Challenges:
-  - Regulatory scrutiny: Compliance with evolving financial regulations.
-  - Competitive pressure: Differentiating from competitors.
-  - User sensitivity to fees: Balancing revenue with user affordability.
+__Challenges__
+  - __Regulatory scrutiny__: Compliance with evolving financial regulations.
+  - __Competitive pressure__: Differentiating from competitors.
+  - __User sensitivity to fees__: Balancing revenue with user affordability.
 
-Opportunities:
-  - Expansion into new markets: Entering underserved or international markets.
-  - Data monetization: Leveraging user data for targeted financial services.
-  - Development of new services and features: Enhancing user experience.
+__Opportunities__
+  - __Expansion into new markets__: Entering underserved or international markets.
+  - __Data monetization__: Leveraging user data for targeted financial services.
+  - __Development of new services and features__: Enhancing user experience.
 
-#### Target Customer Segment:
-  - Demographics:
+#### Target Customer Segment
+  - __Demographics__:
     - Young individuals (18-40 years old)
     - Low-income households
     - Minority communities
     - Low FICO scores: Individuals struggling with credit
     - Limited banking history: Unbanked or underbanked populations
-  - Psychographics:
+  - __Psychographics__:
     - Tech-savvy users
     - Financially excluded
 
-#### Key Statistics:
+#### Key Statistics
   - $14.3 billion in revenue (34.9% increase)
   - $4.32 billion in gross profit
   - 22 million Cash Card owners
   - 73.1% usage among low-FICO score users
 
-#### Strategic Implications:
-  - Diversification: Reduces dependence on interest-based revenue.
-  - Scalability: Fee-based services scale with user growth.
-  - Competitive advantage: Innovative features drive customer adoption and loyalty.
+#### Strategic Implications
+  - __Diversification__: Reduces dependence on interest-based revenue.
+  - __Scalability__: Fee-based services scale with user growth.
+  - __Competitive advantage__: Innovative features drive customer adoption and loyalty.
 
 
 
 ### Chime
+
 Chime, a fee-free digital payments platform, targets a demographic often underserved by traditional banks, primarily low-income individuals and families. It generates revenue through interchange fees on card transactions and partnerships with other financial institutions. Notably, Chime is not a traditional bank but rather a fintech company specializing in payment processing services. Strategically opting out of a traditional banking license, Chime focuses on payment processing and transaction fees, avoiding costly regulatory requirements and compliance burdens, while transferring risk to partnering banks, Bancorp and Stride. Its business model revolves around non-interest income streams.
 
 #### Non-Interest Income Streams
 
-  - Interchange Fees: Earned through debit and credit card transactions, with Chime receiving a portion of the 1.5% processing fee merchants pay to Visa.
-  - Partnership Fees: Generated from collaborations with other financial institutions.
-  - ATM Fees: Charged for out-of-network ATM withdrawals.
-  - Overdraft Fees: Although Chime promotes fee-free overdrafts, excessive overdrafts may incur fees.
+  - __Interchange Fees__: Earned through debit and credit card transactions, with Chime receiving a portion of the 1.5% processing fee merchants pay to Visa.
+  - __Partnership Fees__: Generated from collaborations with other financial institutions.
+  - __ATM Fees__: Charged for out-of-network ATM withdrawals.
+  - __Overdraft Fees__: Although Chime promotes fee-free overdrafts, excessive overdrafts may incur fees.
 
 #### Key Factors Driving Non-Interest Income
 
-  - Network Effects: Expanding user base increases transaction volume, boosting interchange fees.
-  - Partnership Strategy: Collaborations with financial institutions enhance revenue opportunities.
-  - Fee-Free Services: Focus on fee-free services attracts customers, driving transaction volume.
+  - __Network Effects__: Expanding user base increases transaction volume, boosting interchange fees.
+  - __Partnership Strategy__: Collaborations with financial institutions enhance revenue opportunities.
+  - __Fee-Free Services__: Focus on fee-free services attracts customers, driving transaction volume.
 
 #### Strategic Insights
 
-  - Diversification: Non-interest income reduces dependence on interest rates.
-  - Scalability: Mobile-only approach efficiently acquires customers, increasing transaction volume.
-  - Innovation: Continuous development of new features and services attracts customers.
+  - __Diversification__: Non-interest income reduces dependence on interest rates.
+  - __Scalability__: Mobile-only approach efficiently acquires customers, increasing transaction volume.
+  - __Innovation__: Continuous development of new features and services attracts customers.
 
 #### Challenges
 
-  - Regulatory Environment: Evolving fintech regulations may impact non-interest income.
-  - Competition: Traditional banks and fintech companies compete for market share.
+  - __Regulatory Environment__: Evolving fintech regulations may impact non-interest income.
+  - __Competition__: Traditional banks and fintech companies compete for market share.
 
 With over 15 million accounts and $1 billion in annual revenue, Chime's non-interest income model drives growth and expansion in the fintech industry.
 
@@ -300,27 +303,27 @@ Visa Inc. is a multinational financial technology company facilitating electroni
 
 #### Revenue Model Breakdown (FY 2023)
 
-  - Services: $14.8 billion
-  - Data Processing: $16 billion
-  - International Transactions: $11.6 billion
-  - Licensing and Marketing Fees: $2.5 billion
+  - __Services__: $14.8 billion
+  - __Data Processing__: $16 billion
+  - __International Transactions__: $11.6 billion
+  - __Licensing and Marketing Fees__: $2.5 billion
 
 ### Market Share
 U.S. Credit Card Market Share Breakdown (2021)
-  - Visa: 61.6%
-  - Mastercard: 25.7%
-  - American Express: 10.5%
-  - Discover: 2.2%
+  - __Visa__: 61.6%
+  - __Mastercard__: 25.7%
+  - __American Express__: 10.5%
+  - __Discover__: 2.2%
 
 ### Key Insights
-  - Visa Dominance: Visa holds over 60% of the market share.
-  - Duopoly: Visa and Mastercard control 87.3% of the U.S. credit card market.
-  - American Express: Holds majority of remaining market share.
+  - __Visa Dominance__: Visa holds over 60% of the market share.
+  - __Duopoly__: Visa and Mastercard control 87.3% of the U.S. credit card market.
+  - __American Express__: Holds majority of remaining market share.
 
 ### Market Implications
-  - Limited Competition: Duopoly limits competition, potentially affecting innovation.
-  - Consumer Choice: Consumers have limited options beyond Visa and Mastercard.
-  - Market Opportunities: Niche opportunities for Discover and other emerging players.
+  - __Limited Competition__: Duopoly limits competition, potentially affecting innovation.
+  - __Consumer Choice__: Consumers have limited options beyond Visa and Mastercard.
+  - __Market Opportunities__: Niche opportunities for Discover and other emerging players.
 
 
 ### Apple
@@ -329,7 +332,9 @@ Apple’s ecosystem integrates Apple Pay and Apple Card, creating non-interest i
 ![Apple Pay](./assets/apple_pay_2.png)
 
 ### Fiserv
-Summary of Fiserv and Non-Interest Income Aspects
+
+#### Summary of Fiserv and Non-Interest Income Aspects
+
 Fiserv is a leading financial services technology company providing payment processing, e-payments, and financial services to banks, credit unions, and other financial institutions. Its non-interest income streams contribute substantially to its revenue, diversifying its income sources.
 
 #### Key Offerings
