@@ -117,7 +117,7 @@ Community Development Financial Institutions (CDFIs) can leverage modern lending
 
 #### Hypothetical Example: Opportunity Fund
 
-Opportunity Fund, a CDFI, uses fintech-powered lending to provide microloans to low-income entrepreneurs. Leveraging alternative credit data and automated underwriting results in:
+Opportunity Fund, a CDFI, uses fintech-powered lending to provide microloans to low-income entrepreneurs. By leveraging alternative credit data and automated underwriting, Opportunity Fund:
   - Increased loan origination volume by 30%, generating additional interest income.
   - Reduced default rates by 25%, maintaining a healthier banking book.
   - Supported 500 additional small businesses, creating 1,500 jobs and stimulating $10 million in local economic activity.
